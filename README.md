@@ -1,8 +1,8 @@
 Documents:
 
-- [FAQs](FAQs)
+- [FAQs](./FAQs)
 - [Solution Architecture](arc42/07.-Deployment-View.md)
-- [Press Release](PressRelease)
+- [Press Release](./PressRelease)
 
 Arc42 Documentation:
 
