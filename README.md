@@ -1,14 +1,3 @@
-SCRUM Management:
-
-- [DoD](scrum/dod)
-- [DoR](scrum/dor)
-- [SPRINT-1](scrum/SPRINT-1)
-- [SPRINT-2](scrum/SPRINT-2)
-- [SPRINT-3](scrum/SPRINT-3)
-- [SPRINT-4](scrum/SPRINT-4)
-- [SPRINT-5](scrum/SPRINT-5)
-- [SPRINT-6](scrum/SPRINT-6)
-
 Documents:
 
 - [FAQs](FAQs)
@@ -29,3 +18,16 @@ Arc42 Documentation:
 10. [Quality Requirements](arc42/10.-Quality-Requirements.md)
 11. [Risks](arc42/11.-Risks.md)
 12. [Glossary](arc42/12.-Glossary.md)
+
+SCRUM Management:
+
+- Definitions: 
+    - [DoD](scrum/dod)
+    - [DoR](scrum/dor)
+- Sprints:
+    - [SPRINT-1](scrum/SPRINT-1)
+    - [SPRINT-2](scrum/SPRINT-2)
+    - [SPRINT-3](scrum/SPRINT-3)
+    - [SPRINT-4](scrum/SPRINT-4)
+    - [SPRINT-5](scrum/SPRINT-5)
+    - [SPRINT-6](scrum/SPRINT-6)
