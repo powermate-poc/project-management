@@ -1,8 +1,8 @@
 Documents:
 
-- [FAQs](./FAQs)
+- [FAQs](./FAQs.md)
 - [Solution Architecture](arc42/07.-Deployment-View.md)
-- [Press Release](./PressRelease)
+- [Press Release](./PressRelease.md)
 
 Arc42 Documentation:
 
@@ -22,12 +22,12 @@ Arc42 Documentation:
 SCRUM Management:
 
 - Definitions: 
-    - [DoD](scrum/dod)
-    - [DoR](scrum/dor)
+    - [DoD](scrum/dod.md)
+    - [DoR](scrum/dor.md)
 - Sprints:
-    - [SPRINT-1](scrum/SPRINT-1)
-    - [SPRINT-2](scrum/SPRINT-2)
-    - [SPRINT-3](scrum/SPRINT-3)
-    - [SPRINT-4](scrum/SPRINT-4)
-    - [SPRINT-5](scrum/SPRINT-5)
-    - [SPRINT-6](scrum/SPRINT-6)
+    - [SPRINT-1](scrum/SPRINT-1.md)
+    - [SPRINT-2](scrum/SPRINT-2.md)
+    - [SPRINT-3](scrum/SPRINT-3.md)
+    - [SPRINT-4](scrum/SPRINT-4.md)
+    - [SPRINT-5](scrum/SPRINT-5.md)
+    - [SPRINT-6](scrum/SPRINT-6.md)
