@@ -1,0 +1,68 @@
+{
+	"Name": "My Estimate",
+	"Gesamtkosten": {
+		"monatlich": "19.60",
+		"Vorauszahlung": "0.00",
+		"12 Monate": "235.20"
+	},
+	"Metadaten": {
+		"W�hrung": "USD",
+		"Gebietsschema": "de_DE",
+		"Erstellt am": "14.6.2023",
+		"Rechtlicher Haftungsausschluss": "Der AWS Pricing Calculator gibt nur einen �berblick �ber Ihre AWS-Geb�hren und enth�lt keine anfallenden Steuern. Ihre tats�chlichen Geb�hren h�ngen von einer Vielzahl von Faktoren ab, einschlie�lich Ihrer tats�chlichen Nutzung der AWS-Services.",
+		"URL teilen": "https://calculator.aws/#/estimate?id=d3bd421400afb7f3e2aba8047ee614d0f28eed78"
+	},
+	"Gruppen": {
+		"Services": [
+			{
+				"Servicename": "Amazon API Gateway",
+				"Region": "Europa (Frankfurt)",
+				"Status": "",
+				"Service-Kosten": {
+					"monatlich": "14.60",
+					"Vorauszahlung": "0.00",
+					"12 Monate": "175.20"
+				},
+				"Eigenschaften": {
+					"REST-API-Anforderungseinheiten": "Tausende",
+					"WebSocket-Nachrichteneinheiten": "Tausende",
+					"HTTP-API-Anforderungseinheiten": "Millionen",
+					"Durchschnittliche Gr��e jeder Anforderung": "34 KB",
+					"Cache-Speichergr��e (GB)": "0,5",
+					"Durchschnittliche Nachrichtengr��e": "32 KB",
+					"Anforderungen": "1 pro Monat"
+				}
+			},
+			{
+				"Servicename": "AWS Lambda",
+				"Region": "Europa (Frankfurt)",
+				"Status": "",
+				"Service-Kosten": {
+					"monatlich": "0.00",
+					"Vorauszahlung": "0.00",
+					"12 Monate": "0.00"
+				},
+				"Eigenschaften": {
+					"Architektur": "x86",
+					"Aufrufmodus": "Gepuffert",
+					"Menge des fl�chtigen zugewiesenen Speichers": "512 MB",
+					"Anzahl der Anforderungen": "100000 pro Monat"
+				}
+			},
+			{
+				"Servicename": "Amazon Cognito",
+				"Region": "Europa (Frankfurt)",
+				"Status": "",
+				"Service-Kosten": {
+					"monatlich": "5.00",
+					"Vorauszahlung": "0.00",
+					"12 Monate": "60.00"
+				},
+				"Eigenschaften": {
+					"Erweiterte Sicherheitsfunktionen": "Aktiviert",
+					"Anzahl der monatlich aktiven Benutzer (MAU)": "100"
+				}
+			}
+		]
+	}
+}

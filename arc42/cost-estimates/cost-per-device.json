@@ -1,0 +1,83 @@
+{
+	"Name": "My Estimate",
+	"Gesamtkosten": {
+		"monatlich": "5.60",
+		"Vorauszahlung": "0.00",
+		"12 Monate": "67.20"
+	},
+	"Metadaten": {
+		"Währung": "USD",
+		"Gebietsschema": "de_DE",
+		"Erstellt am": "31.5.2023",
+		"Rechtlicher Haftungsausschluss": "Der AWS Pricing Calculator gibt nur einen Überblick über Ihre AWS-Gebühren und enthält keine anfallenden Steuern. Ihre tatsächlichen Gebühren hängen von einer Vielzahl von Faktoren ab, einschließlich Ihrer tatsächlichen Nutzung der AWS-Services.",
+		"URL teilen": "https://calculator.aws/#/estimate?id=15ccc74d1e26bbdf71f54928d3c09aaf75e6cd32"
+	},
+	"Gruppen": {
+		"Services": [
+			{
+				"Servicename": "MQTT",
+				"Region": "Europa (Frankfurt)",
+				"Service-Kosten": {
+					"monatlich": "4.17",
+					"Vorauszahlung": "0.00",
+					"12 Monate": "50.04"
+				},
+				"Eigenschaften": {
+					"Anzahl der Geräte (MQTT)": "1",
+					"Durchschnittliche Größe jeder Nachricht": "200 Bytes",
+					"Durchschnittliche Größe jedes Datensatzes": "1 KB",
+					"Durchschnittliche Anzahl der pro Regel ausgeführten Aktionen": "1",
+					"Anzahl der Nachrichten für ein Gerät": "2678400",
+					"Anzahl der ausgelösten Regeln": "2678400"
+				}
+			},
+			{
+				"Servicename": "Amazon Simple Queue Service (SQS)",
+				"Region": "Europa (Frankfurt)",
+				"Service-Kosten": {
+					"monatlich": "0.67",
+					"Vorauszahlung": "0.00",
+					"12 Monate": "8.04"
+				},
+				"Eigenschaften": {
+					"Standard-Warteschlangenanforderungen": "2.678400 Millionen pro Monat"
+				}
+			},
+			{
+				"Servicename": "AWS Lambda",
+				"Region": "Europa (Frankfurt)",
+				"Service-Kosten": {
+					"monatlich": "0.11",
+					"Vorauszahlung": "0.00",
+					"12 Monate": "1.32"
+				},
+				"Eigenschaften": {
+					"Architektur": "x86",
+					"Menge des flüchtigen zugewiesenen Speichers": "512 MB",
+					"Aufrufmodus": "Gepuffert",
+					"Anzahl der Anforderungen": "267840 pro Monat"
+				}
+			},
+			{
+				"Servicename": "Amazon Timestream",
+				"Region": "Europa (Frankfurt)",
+				"Service-Kosten": {
+					"monatlich": "0.65",
+					"Vorauszahlung": "0.00",
+					"12 Monate": "7.80"
+				},
+				"Eigenschaften": {
+					"Datensatzgröße berechnen": "Nein",
+					"Batchdaten": "Nein",
+					"Geplante Abfragen": "ohne geplante Abfragen",
+					"Anzahl der Datensätze": "2678400 pro Monat",
+					"Anzahl der Datensätze im Magnetspeicher": "pro Monat",
+					"Anzahl der Abfragen": "1000 pro Monat",
+					"Durchschnittlicher Zeitraum der von Abfragen abgefragten Daten": "7 Tage",
+					"Aufbewahrung im Arbeitsspeicher": "1 Tage",
+					"Aufbewahrung im Magnetspeicher": "12 Monate"
+				}
+			}
+		]
+	}
+}

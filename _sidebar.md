@@ -1,0 +1,33 @@
+[HOME](home)
+
+1. scrum
+   1. Definitions:
+      1. [DoD](scrum/DoD)
+      2. [DoR](scrum/DoR)
+   2. Sprints:
+      1. [SPRINT-1](scrum/SPRINT-1)
+      2. [SPRINT-2](scrum/SPRINT-2)
+      3. [SPRINT-3](scrum/SPRINT-3)
+      4. [SPRINT-4](scrum/SPRINT-4)
+      5. [SPRINT-5](scrum/SPRINT-5)
+      6. [SPRINT-6](scrum/SPRINT-6)
+3. arc42:
+   1. [Introduction & Goals](arc42/01.-Introduction-&-Goals)
+   2. [Constraints](arc42/02.-Constraints)
+   3. [Context](arc42/03.-Context)
+   4. [Solution Strategy](arc42/04.-Solution-Strategy)
+   5. [Building Block View](arc42/05.-Building-Block-View)
+   6. [Runtime View](arc42/06.-Runtime-View)
+   7. [Deployment View](arc42/07.-Deployment-View)
+   8. [Concepts](arc42/08.-Concepts)
+   9. [Design Decisions](arc42/09.-Design-Decisions)
+      1. [Frontend](arc42/ADRs/Frontend-Technology.md)
+      2. [Lambda-Deployment](arc42/ADRs/Lambda-Deployment.md)
+      3. [API-Gateway-Lambda-Routing](arc42/ADRs/API-Gateway-Lambda-Routing.md)
+      4. [Authentication And Authorization](arc42/ADRs/Authentication-And-Authorization.md)
+      5. [Device-Communication](arc42/ADRs/Device-Communication.md)
+      6. [OpenAPI-Specification](arc42/ADRs/OpenAPI.md)
+      7. [App testing](arc42/ADRs/Appium.md)
+   10. [Quality Requirements](arc42/10.-Quality-Requirements)
+   11. [Risks](arc42/11.-Risks)
+   12. [Glossary](arc42/12.-Glossary)
