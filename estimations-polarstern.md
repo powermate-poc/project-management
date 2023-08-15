@@ -1,11 +1,12 @@
-PowerMate (Polarstern)-Test | Offene ToDo's
+***WORK IN PROGRESS***
+# PowerMate (Polarstern)-Test | Offene ToDo's
 
 Dieses Dokument beschreibt noch offene Punkte im PowerMate Projekt die *zwingend* angegangen werden müssen um einen erfolgreichen Test im Rahmen des Angebots von Polarsterns zu gewährleisten.
 
 Rahmenbedingungen:
 - [20,100] Installationen eines PowerMate Devices
 
-# PowerMate Devices
+## PowerMate Devices
 Für den Test und dessen Erfolges wegen, sollte ein einziger Typ von PowerMate Device verwendet werden.
 
 Für diesen Unterpunkt stellen sich folgende ToDo's:
@@ -14,7 +15,7 @@ Für diesen Unterpunkt stellen sich folgende ToDo's:
   - Hier ist noch erst keine Lösung in Diskussion, je nach Device kann das auch anders aussehen. Phone/Raspberry hätten Internetverbindung, ein ESP nicht.
 - *Fool-Proof* Anleitung für den Installationsprozess ***5h***
 
-# Datenverarbeitung
+## Datenverarbeitung
 
 Abhängig davon, auf welches PowerMate Device man sich einigt, gibts es bezüglich dessen Datenverarbeitung der Mangetsensordaten andere ToDo's:
 
@@ -25,7 +26,7 @@ Abhängig davon, auf welches PowerMate Device man sich einigt, gibts es bezügli
 - PaD:
   - Rotationskonvertierung nicht stabil ***10h***
 
-# Authentifizierung
+## Authentifizierung
 
 Um für den Test mehrere PowerMate Devices zu verwenden, ist es ratsam, Authentifizierung für User zu gewährleisten. Ohne hat der Test keine gute Aussagekraft wie gut sich mehrere Devices zugleich im PowerMate Projekt befinden können.
 
